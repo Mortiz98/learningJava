@@ -36,17 +36,16 @@ Each folder contains one or more `.java` files that cover a specific concept or 
 
 From the terminal, navigate to the appropriate folder and compile/run the desired `.java` file using:
 
-```bash
+```
 javac FileName.java
 java FileName
+```
 Example:
 
-bash
-Copiar
-Editar
-javac Calculadora_basica/Calculadora.java
+```
+java Calculadora_basica/Calculadora.java
 java Calculadora
-
+```
 💡 Make sure you're in the correct directory before compiling.
 
 🎯 Purpose
