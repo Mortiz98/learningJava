@@ -65,4 +65,5 @@ This repository is intended for educational and practice purposes. Each exercise
 - Java on W3Schools
 - Java Course by Píldoras Informáticas (YouTube)
 
-* 💡 Keep practicing, experimenting, breaking things, and learning — this is just the beginning of your Java journey. *
+
+*💡 Keep practicing, experimenting, breaking things, and learning — this is just the beginning of your Java journey.*
