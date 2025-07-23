@@ -1,42 +1,34 @@
-# 🧠 Learning Java
-
+🧠 Learning Java
 This repository contains a collection of exercises and small projects developed as part of my journey to learn the Java programming language. The topics range from the basics (operators, conditionals, loops) to more structured applications like calculators, inventory managers, and sales systems.
 
----
+📁 Repository Structure
+Each folder contains one or more .java files that cover a specific concept or solve a particular problem.
 
-## 📁 Repository Structure
+Folder / Project	Description
+Administrador_de_ventas	Mini system to manage sales
+Arreglos	Exercises with arrays (vectors)
+Cajero_automatico	ATM simulation
+Calculadora_basica	Basic calculator with standard operations
+Ciclos_y_bucles	Exercises with loop structures
+Condicionales	Use of if, else, switch statements
+Gestor_de_inventarios	Application to manage product inventory
+HoursConverter	Converts hours to other formats
+Libreta_de_Contactos	Simple digital contact book
+Operadores.java	Use of mathematical and logical operators
+SistemaCalificaciones	Grade calculation and management system
+SistemaRegistroVentas	Basic sales registration system
 
-Each folder contains one or more `.java` files that cover a specific concept or solve a particular problem.
+✅ Requirements
+Java JDK 8+ installed
 
-| Folder / Project            | Description                                        |
-|----------------------------|----------------------------------------------------|
-| `Administrador_de_ventas`  | Mini system to manage sales                        |
-| `Arreglos`                 | Exercises with arrays (vectors)                    |
-| `Cajero_automatico`        | ATM simulation                                     |
-| `Calculadora_basica`       | Basic calculator with standard operations          |
-| `Ciclos_y_bucles`          | Exercises with loop structures                     |
-| `Condicionales`            | Use of `if`, `else`, `switch` statements           |
-| `Gestor_de_inventarios`    | Application to manage product inventory            |
-| `HoursConverter`           | Converts hours to other formats                    |
-| `Libreta_de_Contactos`     | Simple digital contact book                        |
-| `Operadores.java`          | Use of mathematical and logical operators          |
-| `SistemaCalificaciones`    | Grade calculation and management system            |
-| `SistemaRegistroVentas`    | Basic sales registration system                    |
+An editor like VS Code, IntelliJ IDEA, or simply use the terminal
 
----
+▶️ How to Run the Exercises
+From the terminal, you can compile and run a .java file like this:
 
-## ✅ Requirements
-
-- Java JDK 8 or higher installed  
-- A code editor like VS Code, IntelliJ IDEA, or simply use the terminal
-
----
-
-## ▶️ How to Run the Exercises
-
-From the terminal, you can compile and run a `.java` file like this:
-
-```bash
+bash
+Copiar
+Editar
 javac FileName.java
 java FileName
 Example:
