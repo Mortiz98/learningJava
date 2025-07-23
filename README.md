@@ -19,34 +19,34 @@ SistemaCalificaciones	Grade calculation and management system
 SistemaRegistroVentas	Basic sales registration system
 
 ✅ Requirements
-Java JDK 8+ installed
+Java JDK 8 or higher installed
 
-An editor like VS Code, IntelliJ IDEA, or simply use the terminal
+A code editor like VS Code, IntelliJ IDEA, or simply use the terminal
 
 ▶️ How to Run the Exercises
-From the terminal, you can compile and run a .java file like this:
+From the terminal, compile and run a .java file with the following commands:
 
-bash
+mathematica
 Copiar
 Editar
 javac FileName.java
 java FileName
 Example:
 
-bash
+nginx
 Copiar
 Editar
 javac Calculadora_basica/Calculadora.java
 java Calculadora
-Make sure you are in the root folder of the project or navigate to the correct folder before compiling.
+Make sure you're in the root folder of the project or navigate to the correct directory before compiling.
 
 🎯 Repository Purpose
-This repository is for educational and practice purposes. Each exercise is designed to strengthen Java programming fundamentals through solving real-world problems.
+This repository is for educational and practice purposes. Each exercise is designed to strengthen Java programming fundamentals by solving real-world problems.
 
 📌 Next Steps
 Add more object-oriented programming exercises
 
-Implement examples with classes and inheritance
+Implement examples using classes and inheritance
 
 Create applications with graphical interfaces (Swing/JavaFX)
 
@@ -59,4 +59,4 @@ Java on W3Schools
 
 Java Course by Píldoras Informáticas (YouTube)
 
-💡 Keep practicing, experimenting, making mistakes, and learning. This is just the beginning of your journey with Java.
+💡 Keep practicing, experimenting, making mistakes, and learning — this is just the beginning of your journey with Java.
