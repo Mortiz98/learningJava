@@ -48,23 +48,21 @@ java Calculadora
 ```
 💡 Make sure you're in the correct directory before compiling.
 
-🎯 Purpose
+##🎯 Purpose
+
 This repository is intended for educational and practice purposes. Each exercise is designed to build and strengthen your Java programming fundamentals by solving real-world problems in a simple and progressive way.
 
-📌 Next Steps
-Add more object-oriented programming exercises
+##📌 Next Steps
 
-Implement examples using classes and inheritance
+- Add more object-oriented programming exercises
+- Implement examples using classes and inheritance
+- Create applications with graphical interfaces (Swing or JavaFX)
+- Add unit tests using JUnit
 
-Create applications with graphical interfaces (Swing or JavaFX)
+##📚 Recommended Resources
 
-Add unit tests using JUnit
+- Official Java Documentation
+- Java on W3Schools
+- Java Course by Píldoras Informáticas (YouTube)
 
-📚 Recommended Resources
-Official Java Documentation
-
-Java on W3Schools
-
-Java Course by Píldoras Informáticas (YouTube)
-
-💡 Keep practicing, experimenting, breaking things, and learning — this is just the beginning of your Java journey.
+*💡 Keep practicing, experimenting, breaking things, and learning — this is just the beginning of your Java journey.*
