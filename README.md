@@ -1,34 +1,40 @@
 # 🧠 Learning Java
 
-This repository contains a collection of exercises and small projects developed as part of my journey to learn the **Java** programming language. The topics range from the basics (operators, conditionals, loops) to more structured applications like calculators, inventory managers, and sales systems.
+This repository contains a collection of exercises and small projects developed as part of my journey to learn the Java programming language. The topics range from the basics (operators, conditionals, loops) to more structured applications like calculators, inventory managers, and sales systems.
+
+---
 
 ## 📁 Repository Structure
 
 Each folder contains one or more `.java` files that cover a specific concept or solve a particular problem.
 
-| Folder / Project               | Description                                          |
-|-------------------------------|------------------------------------------------------|
-| `Administrador_de_ventas`     | Basic sales management system                        |
-| `Arreglos`                    | Exercises with arrays                                |
-| `Cajero_automatico`           | ATM simulation                                       |
-| `Calculadora_basica`          | Basic calculator with arithmetic operations          |
-| `Ciclos_y_bucles`             | Loop and iteration exercises                         |
-| `Condicionales`               | Use of `if`, `else`, and `switch` statements         |
-| `Gestor_de_inventarios`       | Inventory management app                             |
-| `HoursConverter`              | Time conversion utility                              |
-| `Libreta_de_Contactos`        | Simple digital contacts agenda                       |
-| `Operadores.java`             | Use of mathematical and logical operators            |
-| `SistemaCalificaciones`       | Grades calculation and management                    |
-| `SistemaRegistroVentas`       | Basic sales registration system                      |
+| Folder / Project            | Description                                        |
+|----------------------------|----------------------------------------------------|
+| `Administrador_de_ventas`  | Mini system to manage sales                        |
+| `Arreglos`                 | Exercises with arrays (vectors)                    |
+| `Cajero_automatico`        | ATM simulation                                     |
+| `Calculadora_basica`       | Basic calculator with standard operations          |
+| `Ciclos_y_bucles`          | Exercises with loop structures                     |
+| `Condicionales`            | Use of `if`, `else`, `switch` statements           |
+| `Gestor_de_inventarios`    | Application to manage product inventory            |
+| `HoursConverter`           | Converts hours to other formats                    |
+| `Libreta_de_Contactos`     | Simple digital contact book                        |
+| `Operadores.java`          | Use of mathematical and logical operators          |
+| `SistemaCalificaciones`    | Grade calculation and management system            |
+| `SistemaRegistroVentas`    | Basic sales registration system                    |
+
+---
 
 ## ✅ Requirements
 
-- Java JDK 8 or later
-- Code editor like [VS Code](https://code.visualstudio.com/) or [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- Java JDK 8 or higher installed  
+- A code editor like VS Code, IntelliJ IDEA, or simply use the terminal
 
-## ▶️ How to Run the Code
+---
 
-From your terminal, you can compile and run a `.java` file like this:
+## ▶️ How to Run the Exercises
+
+From the terminal, you can compile and run a `.java` file like this:
 
 ```bash
 javac FileName.java
@@ -38,31 +44,27 @@ Example:
 bash
 Copiar
 Editar
-javac Calculadora_basica/Calculator.java
-java Calculator
-Make sure to navigate to the corresponding folder before compiling the file.
+javac Calculadora_basica/Calculadora.java
+java Calculadora
+Make sure you are in the root folder of the project or navigate to the correct folder before compiling.
 
 🎯 Repository Purpose
-This repository is intended for educational and practice purposes. Each project reinforces Java programming fundamentals by solving real-world inspired problems.
+This repository is for educational and practice purposes. Each exercise is designed to strengthen Java programming fundamentals through solving real-world problems.
 
 📌 Next Steps
- Add more object-oriented programming (OOP) exercises
+Add more object-oriented programming exercises
 
- Implement examples using classes and inheritance
+Implement examples with classes and inheritance
 
- Build GUI applications (Swing or JavaFX)
+Create applications with graphical interfaces (Swing/JavaFX)
 
- Add unit tests with JUnit
+Add unit tests using JUnit
 
 📚 Recommended Resources
 Official Java Documentation
 
-Java W3Schools
+Java on W3Schools
 
-Java Course by Píldoras Informáticas (YouTube - Spanish)
+Java Course by Píldoras Informáticas (YouTube)
 
-💡 Keep practicing, testing, breaking, and learning. This is just the beginning of your Java journey.
-
-yaml
-Copiar
-Editar
+💡 Keep practicing, experimenting, making mistakes, and learning. This is just the beginning of your journey with Java.
